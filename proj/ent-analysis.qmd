@@ -1,0 +1,14 @@
+---
+title: "Analyzing Features of Entertainment Success"
+author: "Lily Walker and Dallin Anderson"
+format: html
+---
+```{python}
+#| echo: False
+
+# import __
+
+```
+
+# Current Draft for the Project
+TBD
