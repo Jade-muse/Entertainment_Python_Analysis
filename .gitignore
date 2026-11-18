@@ -9,8 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-# API Access files
-proj/tmbd_api_access.py
-
 /.quarto/
 **/*.quarto_ipynb
